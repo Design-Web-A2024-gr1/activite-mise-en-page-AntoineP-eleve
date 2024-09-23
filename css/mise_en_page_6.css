@@ -1,0 +1,23 @@
+#menu1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+#menu2{
+    display: flex;
+    margin-left: auto;
+
+}
+nav{
+    display: grid;
+
+    grid-template-columns: 500px 1fr;
+}
+main
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}

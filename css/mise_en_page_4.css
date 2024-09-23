@@ -1,0 +1,35 @@
+#menu1{
+    border-bottom: 5px solid white;
+    padding: 25px;
+}
+#menu2{
+
+    margin-left: auto;
+    text-align: center;
+
+}
+nav{
+
+    max-width: 250PX;
+
+}
+#conteneur
+{
+    display: flex;
+
+}
+aside
+{
+    max-width: 400px;
+}
+
+article{
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-direction: row-reverse;
+}
+
+img{
+    max-width: 300px;
+}
